@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/common/StringProcess.java=UTF-8
+encoding//src/controller/DanhGiaCongTacVienServlet.java=UTF-8
+encoding//src/controller/DanhSachCongViecServlet.java=UTF-8
+encoding//src/controller/DanhSachNguoiDungServlet.java=UTF-8
+encoding//src/controller/LoginServlet.java=UTF-8
+encoding//src/controller/NhanViecServlet.java=UTF-8
+encoding//src/controller/PheDuyetUngVienServlet.java=UTF-8
+encoding//src/controller/ThemDangKyDichVuServlet.java=UTF-8
+encoding//src/controller/ThemMoiNguoiDungServlet.java=UTF-8
+encoding//src/controller/ThemMoiUngVienServlet.java=UTF-8
+encoding//src/controller/TimKiemTrongDanhSachCongViecServlet.java=UTF-8
+encoding//src/controller/XacNhanHoanThanhCVServlet.java=UTF-8
+encoding//src/model/dao/NguoiDungDAO.java=UTF-8
